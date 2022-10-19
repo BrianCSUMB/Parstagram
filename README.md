@@ -28,9 +28,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/BrianCSUMB/Parstagram/blob/main/Parstagram%20pt1.1.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
-<img src='https://github.com/BrianCSUMB/Parstagram/blob/main/Parstagram%20pt1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
 <img src='https://github.com/BrianCSUMB/Parstagram/blob/main/Parstagram%20logIn.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
+<img src='https://github.com/BrianCSUMB/Parstagram/blob/main/Parstagram%20pt1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='https://github.com/BrianCSUMB/Parstagram/blob/main/parstagram%20pt2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
