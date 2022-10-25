@@ -24,6 +24,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/BrianCSUMB/Parstagram/blob/main/Parstagram%20pt2.1.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
+<img src='https://github.com/BrianCSUMB/Parstagram/blob/main/Parstagram%20pt2.2.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
+
 # Parstagram
 This is an instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
 
