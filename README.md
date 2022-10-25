@@ -2,7 +2,7 @@
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
@@ -25,6 +25,9 @@ Here's a walkthrough of implemented user stories:
 <img src='https://github.com/BrianCSUMB/Parstagram/blob/main/Parstagram%20pt2.1.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
 
 <img src='https://github.com/BrianCSUMB/Parstagram/blob/main/Parstagram%20pt2.2.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
+<img src='https://github.com/BrianCSUMB/Parstagram/blob/main/Parstagram%20pt2.3:4.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
 
 
 # Parstagram
